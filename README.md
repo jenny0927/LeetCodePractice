@@ -5,3 +5,12 @@ Array and String:
 	leetcode 443 string compress ( using char array )
 	leetcode122 best Time To Buy And Sell Stock 2 (easy)
 Linked List:
+
+
+Tree:
+
+	Inorder
+	Preorder
+	postorder
+	BreadthFirstTraversal
+	DepthFirstTraversal
