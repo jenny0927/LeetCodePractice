@@ -14,3 +14,8 @@ Tree:
 	postorder
 	BreadthFirstTraversal
 	DepthFirstTraversal
+
+HashMap:
+
+	fisrtUnoque Character in a string
+	kth unique character in a string
