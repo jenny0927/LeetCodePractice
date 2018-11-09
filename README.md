@@ -19,4 +19,4 @@ HashMap:
 
 	fisrtUnoque Character in a string
 	kth unique character in a string
-	Jewels and Stone
+	Jewels and Stone(beats 100% java submit)
